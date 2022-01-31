@@ -1,5 +1,5 @@
 {
-  "root": "${1}/heroku_output/wwwroot",
+  "root": "release/wwwroot",
   "clean_urls": true,
   "error_page": "index.html",
   "routes": {
